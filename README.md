@@ -36,3 +36,5 @@
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,30&height=100&section=footer)
+
+![Snake animation](https://github.com/karnkrapao/karnkrapao/blob/output/github-contribution-grid-snake.svg)
