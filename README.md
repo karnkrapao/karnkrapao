@@ -1,10 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,30&height=280&section=header&text=Hi,%20I'm%20Karn%20👋&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20Angular&descAlignY=55&descAlign=60)
+<h1 align="center">Hi 👋, I'm Karn</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%23%20%26%20.NET%20Core%20Lover;Building%20Scalable%20Apps;Angular%20Enthusiast&font=Fira%20Code&center=true&width=500&height=40&color=38bdae&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
+
+![](https://raw.githubusercontent.com/karnkrapao/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/karnkrapao/github-stats-transparent/output/generated/languages.svg)
 
 <br/>
 
@@ -12,6 +15,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,scss,go,kubernetes&perline=10" />
 </a>
+<br/>
 <br/>
 <img src="https://img.shields.io/badge/Termius-Using-white?style=for-the-badge&logo=termius&logoColor=white&color=2ecc71" height="30" alt="Termius" />
 
@@ -25,8 +29,8 @@
 <br/>
 
 ### 🎧 Vibe Check
-<a href="https://open.spotify.com/search/Courts">
-  <img src="https://img.shields.io/badge/Spotify-Listening_to_Courts-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+<a href="https://open.spotify.com/search/cortis">
+  <img src="https://img.shields.io/badge/Spotify-Listening_to_Cortis-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 </a>
 
 </div>
