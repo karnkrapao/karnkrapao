@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Karn</h1>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D-Profile" />
+</div>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=C%23%20%26%20.NET%20Core%20Lover;Building%20Scalable%20Apps;Angular%20Enthusiast&font=Fira%20Code&center=true&width=500&height=40&color=38bdae&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
 </a>
